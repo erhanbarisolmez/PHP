@@ -1,0 +1,1 @@
+file_put_contents() Eğitim VideosuFILE_APPEND : Eski içerikler silinmeden yeni içerikler sona eklenir.
