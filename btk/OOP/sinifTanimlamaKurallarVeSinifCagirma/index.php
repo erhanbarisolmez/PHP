@@ -85,7 +85,7 @@ class Deneme{
 */
 
 /*Örnek 5 */
-// sınıf isimleri birden fazla kes kullanabilir ama isim uzayı(namespace) kullanılmak şartıyla.
+// sınıf isimleri birden fazla kez kullanabilir ama isim uzayı(namespace) kullanılmak şartıyla.
   namespace Erhan;
   class Detay{
     public $isim = "Barış";
